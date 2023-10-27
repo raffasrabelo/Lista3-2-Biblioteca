@@ -1,0 +1,15 @@
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.csproj.AssemblyReference.cache
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.AssemblyInfoInputs.cache
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.AssemblyInfo.cs
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\bin\Debug\net6.0\Lista 3-2 Biblioteca.exe
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\bin\Debug\net6.0\Lista 3-2 Biblioteca.deps.json
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\bin\Debug\net6.0\Lista 3-2 Biblioteca.runtimeconfig.json
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\bin\Debug\net6.0\Lista 3-2 Biblioteca.dll
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\bin\Debug\net6.0\Lista 3-2 Biblioteca.pdb
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.dll
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\refint\Lista 3-2 Biblioteca.dll
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.pdb
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\Lista 3-2 Biblioteca.genruntimeconfig.cache
+C:\Users\raffa\source\repos\Lista 3-2 Biblioteca\obj\Debug\net6.0\ref\Lista 3-2 Biblioteca.dll
